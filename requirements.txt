@@ -1,0 +1,6 @@
+streamlit
+sacrebleu
+python-Levenshtein
+pandas
+matplotlib
+seaborn
